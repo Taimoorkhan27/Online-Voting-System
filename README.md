@@ -1,4 +1,4 @@
-Voting System Project Using Django
+Voting System Project 
 
 This project demonstrates a simple voting system built using the Django framework. Users can browse polls, cast votes, and view results, while admins can manage poll questions and choices. It's an excellent introduction to Django’s Model-View-Template (MVT) architecture.
 
